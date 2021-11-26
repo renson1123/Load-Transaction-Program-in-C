@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1637923177 source:d:\codeblocks source codes\midtermexamproblem1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637926180 source:d:\codeblocks source codes\midtermexamproblem1\rplacinomidtermexam.c
+	<stdio.h>
+	<stdlib.h>
+
